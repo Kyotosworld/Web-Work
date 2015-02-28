@@ -1,0 +1,11 @@
+Blue : 	'Smooth Sailing' : #02779E
+	'Westerly' : #001C38
+
+White :	'Almost White' : #FCFCFC
+
+Palette :
+* Blue hippopotamus : 	- light blue : #BEE2E7
+			- blue : #4F57AA
+			- dark blue : #454857
+			- grey : #72818B
+			- red : #8F002E

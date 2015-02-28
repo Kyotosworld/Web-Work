@@ -1,0 +1,10 @@
+/*						odyssee2001.tk
+		stylesheets.css
+Contient toutes les feuilles de style du site							*/
+
+@import "stylefiles/page.css";
+@import "stylefiles/active.css";
+@import "stylefiles/titles.css";
+@import "stylefiles/text.css";
+@import "stylefiles/figures.css";
+@import "stylefiles/dev.css";

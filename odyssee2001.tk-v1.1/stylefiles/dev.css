@@ -1,0 +1,16 @@
+/*						www.odysee2001.tk
+		dev.css
+
+Stylesheet for the special page dev.html						*/
+
+
+
+table{
+	border-collapse: collapse;
+	margin: 10px;
+}
+
+td{
+	border: 1px black solid;
+	font-weight: bold;
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+        <head>
+                <meta charset="UTF-8" />
+                <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+                <link rel="stylesheet" type="text/css" href="css/style.css" />
+                <title>Basic Ready-to-Use CSS Styles</title>
+        </head>
+
+        <body>
+                <div class="container">
+                
+                                <!-- Top bar -->
+                        <div class="codrops-top clearfix">
+                                <a href="index.php">User index</a>
+                                <span class="right">
+                                        <a href="cookie-form.php"><strong>Re-Fill Form</strong></a>
+                                </span>
+                        </div><!--/ Top bar -->
+                        
+                        <header>
+                                <h1>PHP Web test with better CSS Style</h1>
+                                <h2>Nothing useful to say here</h2>
+                        </header>
+                        
+                        <section>
+                                <article>
+                                        <h3>PHP Code</h3>

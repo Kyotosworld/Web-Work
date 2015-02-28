@@ -1,0 +1,27 @@
+/*						www.odysee2001.tk
+		figures.css
+
+Stylesheet for all non-text elements of the site								 */
+
+img {
+	border: 1px black solid;
+}
+
+figcaption {
+	text-align: center;
+	color: grey;
+	font-style: italic;
+}
+
+.img_float_left {
+	float: left;
+	margin-right: 3px;
+}
+
+#index_img {
+	display: inline-block;
+	vertical-align: top;
+	margin: 80px 0px 30px 50px;
+
+	border: 2px black solid;
+}

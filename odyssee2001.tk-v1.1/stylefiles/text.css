@@ -1,0 +1,43 @@
+/*						www.odysee2001.tk
+		text.css
+
+Stylesheet for all texts inside of a paragraph in all html files				*/
+
+
+
+p{
+	color: black;
+	text-align: justify;
+	font-size: 1.4em;
+}
+
+h5 + p {
+	margin-top: 12px;
+}
+
+a{
+	color: navy;
+	
+}
+
+/* classes for the em tag */
+.name{
+	font-style: italic;
+	font-weight: bold;
+	color: purple;
+}
+
+.date{
+	font-style: oblique;
+}
+
+.quote{
+	font-family : "Times New Roman", Arial, Helvetica, Quicksand;
+	font-style: italic;
+
+}
+
+/* tag to write with a handwritten font paragraphs in the presentation page */
+section[id="handwritten"] h4+p {
+	font-family: Daniel;
+}
